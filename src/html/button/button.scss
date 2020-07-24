@@ -1,0 +1,31 @@
+%button{
+  border-style: solid;
+  border-width : 3px;
+  border-radius: 3px;
+  background: none;
+  display: flex;
+}
+
+@mixin button-size($button-w, $button-h){
+  width: $button-w;
+  height: $button-h;
+}
+
+@mixin button-border_color($color){
+  border-color: $color;
+  color: $color;
+}
+
+@mixin button-text_size($fz){
+  font-size: $fz;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 0.3rem;
+}
+
+.button_center_text{
+  @extend %button;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+}

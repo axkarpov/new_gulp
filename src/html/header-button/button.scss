@@ -1,0 +1,10 @@
+.button-header {
+  @extend .button_center_text;
+  @include button-size(190px,50px);
+  @include button-border_color(#fff);
+  @include button-text_size(17px);
+  transition: 0.3s;
+  &:hover{
+    font-size: 19px;
+  }
+}

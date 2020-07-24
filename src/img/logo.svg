@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="263" height="60" viewBox="0 0 263 60">
+  <g id="Group_5" data-name="Group 5" transform="translate(-28 -32)">
+    <path id="work" d="M57.384,6.927H41.674V5.195A5.2,5.2,0,0,0,36.479,0H22.626a5.2,5.2,0,0,0-5.195,5.195V6.926H1.732A1.736,1.736,0,0,0,0,8.658V46.753A5.2,5.2,0,0,0,5.2,51.948H53.91a5.2,5.2,0,0,0,5.195-5.195V8.688a1.681,1.681,0,0,0-1.721-1.761ZM20.895,5.195a1.734,1.734,0,0,1,1.732-1.732H36.479a1.734,1.734,0,0,1,1.732,1.732V6.926H20.895ZM54.971,10.39,49.594,26.521a1.729,1.729,0,0,1-1.642,1.184H38.211V25.974a1.731,1.731,0,0,0-1.732-1.732H22.626a1.731,1.731,0,0,0-1.732,1.732v1.732H11.154a1.729,1.729,0,0,1-1.642-1.184L4.134,10.39ZM34.747,27.705v3.463H24.358V27.705ZM55.642,46.753a1.734,1.734,0,0,1-1.732,1.732H5.195a1.734,1.734,0,0,1-1.732-1.732V19.328l2.763,8.288a5.187,5.187,0,0,0,4.928,3.552h9.741V32.9a1.731,1.731,0,0,0,1.732,1.732H36.479A1.731,1.731,0,0,0,38.211,32.9V31.169h9.741a5.187,5.187,0,0,0,4.928-3.552l2.763-8.288Zm0,0" transform="translate(28 32)" fill="#fff9f9"/>
+    <g id="Group_2" data-name="Group 2" transform="translate(-17 7)">
+      <text id="Artax" transform="translate(122 34)" fill="#fff" stroke="#000" stroke-width="1" font-size="25" font-family="Modern-Regular, 'Modern No. 20'" letter-spacing="0.1em"><tspan x="0" y="20">Artax</tspan></text>
+      <text id="company_limited" data-name="company limited" transform="translate(114 70)" fill="#fff" font-size="10" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em"><tspan x="0" y="0">company limited</tspan></text>
+    </g>
+  </g>
+</svg>

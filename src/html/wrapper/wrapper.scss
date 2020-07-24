@@ -1,0 +1,29 @@
+$white: #fff;
+
+body {
+  display: flex;
+  min-height: 100%;
+  flex-direction: column;
+  width: 100%;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+.container {
+  max-width: 1170px;
+  margin: 0px auto;
+  padding: 0px 15px;
+  @media (max-width: 1200px){
+    max-width: 970px;
+  }
+  @media (max-width: 992px){
+    max-width: 750px;
+  }
+  @media (max-width: 767px){
+    max-width: none;
+  }
+}
+
